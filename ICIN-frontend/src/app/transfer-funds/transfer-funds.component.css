@@ -1,0 +1,10 @@
+.jumbotron{
+    margin-top:2%;
+    margin-right:15%;
+    margin-left: 15%;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #26c820;
+    border-color: #0d0e0e;
+}
